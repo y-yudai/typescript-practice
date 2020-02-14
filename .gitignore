@@ -1,0 +1,14 @@
+# Dependencies
+node_modules
+
+# Logs
+npm-debug.log
+
+# generate
+dist
+
+# MacOS
+.DS_Store
+
+# Editor
+.vscode/*
